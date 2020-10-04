@@ -7,7 +7,7 @@ const App: React.FC = (): ReactElement => {
   return (
     <>
     <div className="App">
-      <p>hello</p>
+      <p>Test :)</p>
       <Login/>
     </div>
     </>
