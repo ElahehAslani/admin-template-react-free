@@ -1,0 +1,41 @@
+$brand-color-white: #fff;
+$brand-color-black: #000;
+$brand-color-1: #00b0a1;
+$brand-color-2: #22cc85;
+$brand-color-3: #f80;
+$brand-color-4: #e4e4e4;
+$brand-color-5: #0e3537;
+$brand-color-6: #4a4a4a;
+$brand-color-7: #cbf3e3;
+$brand-color-8: #caf5ee;
+$brand-color-9: #9b9b9b;
+$brand-color-10: #f8e71c;
+$brand-color-11: #231f20;
+$brand-color-12: #f5f9fb;
+
+$gray-100: #f7fafc;
+$gray-200: #edf2f7;
+$gray-300: #e2e8f0;
+$gray-400: #cbd5e0;
+$gray-500: #a0aec0;
+$gray-600: #718096;
+$gray-700: #4a5568;
+$gray-800: #2d3748;
+$gray-900: #1a202c;
+
+:export {
+  white: $brand-color-white;
+  black: $brand-color-black;
+  brand1: $brand-color-1;
+  brand2: $brand-color-2;
+  brand3: $brand-color-3;
+  brand4: $brand-color-4;
+  brand5: $brand-color-5;
+  brand6: $brand-color-6;
+  brand7: $brand-color-7;
+  brand8: $brand-color-8;
+  brand9: $brand-color-9;
+  brand10: $brand-color-10;
+  brand11: $brand-color-11;
+  brand12: $brand-color-12;
+}
