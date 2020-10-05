@@ -1,5 +1,6 @@
 import React, { FC, ReactElement, useEffect } from 'react';
-import TextInput from './textInput';
+import TextInput from './../textInput/textInput';
+
 
 const Login: FC = (): ReactElement => { 
     

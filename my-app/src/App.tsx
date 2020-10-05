@@ -1,5 +1,6 @@
 import React, { ReactElement } from 'react';
-import Login from './components/login'
+import Login from './components/login/login';
+import './tailwind.global.css';
 import './App.css';
 
 
